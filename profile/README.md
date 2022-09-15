@@ -32,7 +32,6 @@
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/98468721/190471306-3dd2efbd-0862-4b66-be6f-e277149257f7.jpg" width="200px;" alt=""/>
-
       </td>
     </tr>
       <tr>
