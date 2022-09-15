@@ -19,7 +19,8 @@
     </tr>
     <tr>
       <td align="center">
-        사진
+        사진![leeeunmin_profile_zepeto](https://user-images.githubusercontent.com/96560244/190461214-68763b50-f830-46e8-97ea-4baaff1f6156.jpg)
+
       </td>
       <td align="center">
        사진
