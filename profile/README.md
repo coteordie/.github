@@ -31,7 +31,7 @@
         사진
       </td>
       <td align="center">
-        사진
+      <img src="https://user-images.githubusercontent.com/98468721/190463500-816eeeb0-72c5-47d9-9b2e-c8c98747f0dd.jpg" width="100px;" alt=""/>
       </td>
     </tr>
       <tr>
