@@ -25,6 +25,7 @@
         <img src="https://user-images.githubusercontent.com/84800644/190462185-f8aed9f4-344f-4a4e-a4af-4349f0e12a1b.jpg" width="100px;" alt=""/>
       </td>
       <td align="center">
+      <img src="https://user-images.githubusercontent.com/98273410/190462501-ac71eb40-2343-4924-926b- 58d2f07c057f.jpg" width="100px;" alt=""/>
         사진
       </td>
       <td align="center">
