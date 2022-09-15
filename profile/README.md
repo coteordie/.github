@@ -64,3 +64,9 @@
   </table>
 </div>
 매주 수요일 13시.
+
+
+https://user-images.githubusercontent.com/81818730/190467837-bdefd873-2e22-4f3a-8405-686e814ee311.mov
+
+
+
