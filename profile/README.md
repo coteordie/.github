@@ -31,7 +31,8 @@
         <img src="https://user-images.githubusercontent.com/81818730/190465851-21872dc2-4c45-4bec-88e7-44afd74f3847.jpg" width="200px;" alt=""/>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/98468721/190470341-3960eb0f-d224-4da5-a56b-abed3020284b.jpg" width="200px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/98468721/190471306-3dd2efbd-0862-4b66-be6f-e277149257f7.jpg" width="200px;" alt=""/>
+
       </td>
     </tr>
       <tr>
