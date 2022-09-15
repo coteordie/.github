@@ -19,19 +19,19 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/96560244/190463190-707c83ca-61ba-4ace-84f6-fd12508e9d0c.jpg" width="100px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/96560244/190463190-707c83ca-61ba-4ace-84f6-fd12508e9d0c.jpg" width="200px;" alt=""/>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/84800644/190462185-f8aed9f4-344f-4a4e-a4af-4349f0e12a1b.jpg" width="100px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/84800644/190462185-f8aed9f4-344f-4a4e-a4af-4349f0e12a1b.jpg" width="200px;" alt=""/>
       </td>
       <td align="center">
-      <img src="https://user-images.githubusercontent.com/98273410/190462872-6586d4c6-3f50-42a9-89e3-1d795400d2f0.jpg" width="100px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/98273410/190462872-6586d4c6-3f50-42a9-89e3-1d795400d2f0.jpg" width="200px;" alt=""/>
       </td>
       <td align="center">
-        사진
+        <img src="https://user-images.githubusercontent.com/81818730/190465851-21872dc2-4c45-4bec-88e7-44afd74f3847.jpg" width="200px;" alt=""/>
       </td>
       <td align="center">
-      <img src="https://user-images.githubusercontent.com/98468721/190463500-816eeeb0-72c5-47d9-9b2e-c8c98747f0dd.jpg" width="100px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/98468721/190463500-816eeeb0-72c5-47d9-9b2e-c8c98747f0dd.jpg" width="200px;" alt=""/>
       </td>
     </tr>
       <tr>
