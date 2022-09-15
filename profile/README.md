@@ -1,10 +1,66 @@
 <div align="center">
-
+  <table>
+    <tr>
+      <td align="center">
+        이은민
+      </td>
+      <td align="center">
+        장은성
+      </td>
+      <td align="center">
+        고두현
+      </td>
+      <td align="center">
+        김용민
+      </td>
+      <td align="center">
+        김정헌
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        사진
+      </td>
+      <td align="center">
+       사진
+      </td>
+      <td align="center">
+        사진
+      </td>
+      <td align="center">
+        사진
+      </td>
+      <td align="center">
+        사진
+      </td>
+    </tr>
+      <tr>
+      <td align="center">
+        <a href="https://github.com/devcami">
+          devcami
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jess0402">
+          jess0402
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Godoohyun">
+          Godoohyun
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ymiru0324">
+          ymiru0324
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/heonnn">
+          heonnn
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-|이은민|장은성|고두현|김용민|김정헌|
-|:---:|:---:|:---:|:---:|:---:|
-||||||
-|[devcami](https://github.com/devcami)|[jess0402](https://github.com/jess0402)|[Godoohyun](https://github.com/Godoohyun)|[ymiru0324](https://github.com/ymiru0324)|[heonnn](https://github.com/heonnn)|
-
 매주 수요일 13시.
