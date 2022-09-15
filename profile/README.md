@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/96560244/190461214-68763b50-f830-46e8-97ea-4baaff1f6156.jpg" width="100px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/96560244/190463190-707c83ca-61ba-4ace-84f6-fd12508e9d0c.jpg" width="100px;" alt=""/>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/84800644/190462185-f8aed9f4-344f-4a4e-a4af-4349f0e12a1b.jpg" width="100px;" alt=""/>
