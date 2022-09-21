@@ -1,66 +1,32 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        이은민
-      </td>
-      <td align="center">
-        장은성
-      </td>
-      <td align="center">
-        고두현
-      </td>
-      <td align="center">
-        김용민
-      </td>
-      <td align="center">
-        김정헌
-      </td>
+      <td align="center">순번</td>
+      <td align="center">사이트</td>
+      <td align="center">번호</td>
+      <td align="center">티어</td>
+      <td align="center">답안</td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/96560244/190463190-707c83ca-61ba-4ace-84f6-fd12508e9d0c.jpg" width="200px;" alt=""/>
+        1
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/84800644/190462185-f8aed9f4-344f-4a4e-a4af-4349f0e12a1b.jpg" width="200px;" alt=""/>
+        백준
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/98273410/190471737-277aa9ad-7837-42d1-87f8-c8f846ea1c56.PNG" width="200px;" alt=""/>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/81818730/190465851-21872dc2-4c45-4bec-88e7-44afd74f3847.jpg" width="200px;" alt=""/>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/98468721/190471306-3dd2efbd-0862-4b66-be6f-e277149257f7.jpg" width="200px;" alt=""/>
-      </td>
-    </tr>
-      <tr>
-      <td align="center">
-        <a href="https://github.com/devcami">
-          devcami
+        <a href="https://www.acmicpc.net/problem/2231">
+            2231
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/jess0402">
-          jess0402
-        </a>
+        <img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png">
       </td>
       <td align="center">
-        <a href="https://github.com/Godoohyun">
-          Godoohyun
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ymiru0324">
-          ymiru0324
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/heonnn">
-          heonnn
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day01/BOJ_2231.java">
+            Day01
         </a>
       </td>
     </tr>
   </table>
 </div>
-매주 수요일 13시.
