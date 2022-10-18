@@ -64,4 +64,3 @@
   </table>
 </div>
 매주 수요일 21시.
-https://www.notion.so/devcami/1-1-c80b98ca3d1047ada151b18452ebe135
